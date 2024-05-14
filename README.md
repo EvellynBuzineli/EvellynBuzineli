@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 💜
 
-<!--
-**EvellynBuzineli/EvellynBuzineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Evellyn Buzineli
 
-Here are some ideas to get you started:
+- Estou estudando na [alura] (http://www.alura.com.br)
+- Estou aprendendo a linguagem JavaScripit
+- Uso esse espaço para organização e compartilhamento dos meus projetos em desenvolvimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entre em contato comigo 📬
+
+   evellynbuzineli@gmail.com.br
+
+  @evellynbuzineli
+
+  ![](https://media1.tenor.com/m/S4MGlOuBFtsAAAAC/kkkk.gif)
